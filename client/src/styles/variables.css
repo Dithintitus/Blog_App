@@ -1,0 +1,16 @@
+:root {
+  --font-family: "Lexend Giga", sans-serif;
+  --color-primary: #ffd000; /* Yellow */
+  --color-secondary: #0074cc; /* Blue active */
+  --color-bg: #ffffff;
+  --color-text: #000000;
+  --color-error: #dc3545;
+  --color-success: #28a745;
+  --color-gray: #6c757d;
+  --color-light-gray: #f8f9fa;
+  --box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  --box-shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.15);
+  --radius-pill: 9999px;
+  --radius-card: 8px;
+  --transition: all 0.2s ease;
+}
